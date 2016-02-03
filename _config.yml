@@ -1,0 +1,28 @@
+name: außergewöhnlich leben
+favicon: null
+layout_spectrum: 0.06348806526511908
+typography_spectrum: 0.1598868677392602
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5340420606080443
+  lightness: 0.32177289365790784
+  saturation: 0.7074870034120977
+  rhythmicContrast: 0.7576437594834715
+purpose: []
